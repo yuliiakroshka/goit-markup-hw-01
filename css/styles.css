@@ -1,10 +1,8 @@
 body {
   font-family: "Roboto", sans-serif;
+  background-color: #e5e5e5;
   color: #2e2f42;
   font-size: 16px;
   line-height: 24px;
   font-weight: 400;
-  background-color: #e5e5e5;
-}
-.hero {
 }
