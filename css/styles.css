@@ -6,3 +6,6 @@ body {
   line-height: 24px;
   font-weight: 400;
 }
+.header link {
+  font-weight: 500;
+}
