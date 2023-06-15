@@ -6,6 +6,10 @@ body {
   line-height: 1.5;
   font-weight: 400;
 }
+.header {
+  width: 1440px;
+  height: 72px;
+}
 .link {
   color: #2e2f42;
   text-decoration: none;
@@ -18,6 +22,8 @@ body {
 }
 .section-hero {
   background-color: #2e2f42;
+  width: 1440px;
+  height: 600px;
 }
 .hero-title {
   font-weight: 700;
