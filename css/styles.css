@@ -6,7 +6,7 @@ body {
   line-height: 1.5;
   font-weight: 400;
 }
-header {
+.header {
   background-color: #2e2f42;
 }
 .link {
@@ -38,6 +38,6 @@ button:hover {
   font-size: 36px;
   font-weight: 700;
 }
-footer {
+.footer {
   background-color: #2e2f42;
 }
