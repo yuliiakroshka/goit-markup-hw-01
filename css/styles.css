@@ -12,10 +12,16 @@ link {
 link:hover {
   color: #404bbf;
 }
-.header a {
+.header.link {
   font-weight: 500;
 }
 .hero-title {
   font-weight: 700;
   color: #ffffff;
+}
+button {
+  color: #9747ff;
+}
+button:hover {
+  color: #9747ff;
 }
