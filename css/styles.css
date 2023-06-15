@@ -7,10 +7,10 @@ body {
   font-weight: 400;
 }
 a {color: #2E2F42;;}
-.header link {
+.header a {
   font-weight: 500;
      }
-.header link {active:color:#404BBF;}
+.header a {active:color:#404BBF;}
 .section-hero.hero-title {
    font-weight: 700
    color:#ffffff;}
