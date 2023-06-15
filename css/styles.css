@@ -29,11 +29,8 @@ button:hover {
   font-size: 20px;
   font-weight: 500;
 }
-.title-we-are {
-font-size: 36px
-font-weight: 700;
-}
-.title-our-team {
-font-size: 36px;
-font-weight: 700;
+
+.title-section {
+  font-size: 36px;
+  font-weight: 700;
 }
