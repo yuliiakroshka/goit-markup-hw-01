@@ -5,12 +5,15 @@ body {
   font-size: 16px;
   line-height: 1.5;
   font-weight: 400;
-  text-decoration: none;
+}
+header {
+  background-color: #2e2f42;
 }
 .link {
   color: #2e2f42;
+  text-decoration: none;
 }
-.link:hover:hover {
+.link:hover {
   color: #404bbf;
 }
 .header.link {
@@ -34,4 +37,7 @@ button:hover {
 .title-section {
   font-size: 36px;
   font-weight: 700;
+}
+footer {
+  background-color: #2e2f42;
 }
