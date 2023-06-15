@@ -6,11 +6,12 @@ body {
   line-height: 1.5;
   font-weight: 400;
 }
-a {color: #2E2F42;;}
+a {color: #2E2F42;}
+a:hover {color: #404BBF;;}
 .header a {
   font-weight: 500;
      }
 .header a {active:color:#404BBF;}
-.section-hero.hero-title {
-   font-weight: 700
+.hero-title {
+   font-weight: 700;
    color:#ffffff;}
