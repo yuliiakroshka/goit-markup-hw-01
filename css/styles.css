@@ -6,10 +6,10 @@ body {
   line-height: 1.5;
   font-weight: 400;
 }
-link {
+.link {
   color: #2e2f42;
 }
-link:hover {
+.link:hover:hover {
   color: #404bbf;
 }
 .header.link {
