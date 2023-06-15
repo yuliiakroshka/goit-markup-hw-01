@@ -5,6 +5,7 @@ body {
   font-size: 16px;
   line-height: 1.5;
   font-weight: 400;
+  text-align: center;
 }
 .header {
   width: 1440px;
@@ -24,6 +25,13 @@ body {
   background-color: #2e2f42;
   width: 1440px;
   height: 600px;
+  top: 72px;
+  .section-benefits {
+    width: 1128px;
+    height: 104px;
+    top: 792px;
+    left: 156px;
+  }
 }
 .hero-title {
   font-weight: 700;
